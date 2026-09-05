@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ethiosofi19">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=698&text=Hello!%20I'm%20Sofonias" alt="Hello! I&#39;m Sofonias" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=90D5FF&fontSize=54&height=90&width=698&text=Hello!%20I%27m%20Sofonias" alt="Hello! I&#39;m Sofonias" />
   </a>
 </p>
 
